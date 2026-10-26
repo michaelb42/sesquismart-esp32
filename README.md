@@ -1,3 +1,10 @@
+> [!WARNING]
+> 
+> *** Volatile code. Not for production use. May not even compile atm. ***
+>
+
+---
+
 # SesquiSmartESP32 - sesquismart-esp32
 Free (as in speech) firmware for the CoreBoxx/Inbxx semi-smart add-on running on an Arduino Nano ESP32.
 
