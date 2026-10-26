@@ -66,3 +66,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# DO NOT publish your WiFi credentials...
+src/network/secrets.h
+
